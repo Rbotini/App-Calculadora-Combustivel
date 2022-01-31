@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
-        android:textSize="13sp"
+        android:textSize="12sp"
         android:fontFamily="@font/mochiyroppone_regular"
         android:textColor="#fff"
         android:text="@string/titulo"/>
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:textSize="14sp"
+        android:textSize="12sp"
         android:fontFamily="@font/roboto_regular"
         android:layout_marginTop="20dp"
         android:textAlignment="center"

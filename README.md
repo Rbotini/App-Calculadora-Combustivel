@@ -3,7 +3,10 @@ App Criado em Java (Android) Para calcular qual Combustivel é mais Vantajoso
 
 # Tela Splash
 
-![app2](https://user-images.githubusercontent.com/38733044/151873329-86c1cd9c-a14d-4b9b-8926-6679f334db7c.PNG)
+
+![app2](https://user-images.githubusercontent.com/38733044/152000922-beabffd5-4cf3-4c23-a370-1b219a7ca5fa.PNG)
+
+
 
 # Tela Abertura
 

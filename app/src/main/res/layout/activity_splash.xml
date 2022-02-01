@@ -14,7 +14,7 @@
         android:layout_width="220dp"
         android:layout_height="200dp"
         android:layout_gravity="center"
-        android:layout_marginTop="120dp"
+        android:layout_marginTop="180dp"
         app:srcCompat="@drawable/logosplah" />
 
     <TextView
@@ -22,36 +22,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="30dp"
-        android:textSize="12sp"
+        android:layout_marginTop="40dp"
+        android:textSize="28sp"
         android:fontFamily="@font/mochiyroppone_regular"
         android:textColor="#fff"
-        android:text="@string/titulo"/>
+        android:text="OnshoreCalc" />
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:textSize="12sp"
-        android:fontFamily="@font/roboto_regular"
-        android:layout_marginTop="20dp"
-        android:textAlignment="center"
-        android:lineHeight="20sp"
-        android:textColor="#fff"
 
-        android:text="@string/subtitulo" />
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="20dp"
-        android:textColor="#fff"
-        android:textSize="14sp"
-        android:fontFamily="@font/mochiyroppone_regular"
-        android:textAlignment="center"
-        android:lineHeight="20sp"
-        android:text="@string/subtitulo2" />
 </androidx.appcompat.widget.LinearLayoutCompat>

@@ -31,7 +31,7 @@ public class Splash extends AppCompatActivity {
     }
 
     private void trocartela() {
-       Intent intent = new Intent(Splash.this,MainActivity.class);
+       Intent intent = new Intent(Splash.this,Abertura.class);
        startActivity(intent);
        finish();
 

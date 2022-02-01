@@ -3,4 +3,7 @@
     <string name="titulo">Quando vale a pena usar um combustível ou outro?</string>
     <string name="subtitulo">Esta calculadora do Combustivel Power compara o preço do litro do álcool e da gasolina e mostra qual é o combustível mais vantajoso, financeiramente, no momento.</string>
     <string name="subtitulo2">O etanol vale a pena quando custar até 70% do valor da gasolina.</string>
+    <string name="Bem_vindo">Bem-Vindo(a) ao App OnshoreCalc</string>
+    <string name="title_bem_vindo">Aqui Você pode Fazer o Calculo do preço do alcool e da gasolina e vai ter o resultado qual é o Combustivel mais vantajoso, financeiramente, no momento.</string>
+    <string name="title_bem_vindo2">vantajoso, financeiramente, no momento</string>
 </resources>

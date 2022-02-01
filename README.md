@@ -17,3 +17,7 @@ App Criado em Java (Android) Para calcular qual Combustivel é mais Vantajoso
 # Tela Principal
 
 ![app](https://user-images.githubusercontent.com/38733044/151873373-c1da8cbf-76c5-4921-970f-30222c38e54d.PNG)
+
+# App Finalizado
+
+![WhatsApp Image 2022-02-01 at 16 25 34](https://user-images.githubusercontent.com/38733044/152037201-5fa4f16c-20e3-45f6-a859-ed5578997c4b.jpeg)
